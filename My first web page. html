@@ -1,8 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>My Practical website</title>
 </head>
 <body>
-This is My First Web page.
+This is My First Web page.<br>
+<h1>This is heading 1</h1><br>
+<h2>This is heading 2</h2><br>
+<h3>This is heading 3</h3><br>
+<h4>This is heading 4</h4><br>
+<h5>This is heading 5</h5><br>
+<h6>This is heading 6</h6><br>
+
+<p> This is a paragraph. For start a paragraph i am using P tag.</p>
+
+
 </body>
 </html>
